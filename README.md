@@ -3,7 +3,7 @@
 ### Start Teacher
 
 ```batch
-sbt "run-main school.atmostonce.Math teacher"
+sbt "run-main school.atmostonce.MathApp teacher"
 ```
 
 ### Start Student
@@ -22,7 +22,7 @@ sbt "run-main school.atmostonce.MathApp"
 ### Start Teacher
 
 ```batch
-sbt "run-main school.akkapersistence.Math teacher"
+sbt "run-main school.akkapersistence.MathApp teacher"
 ```
 
 ### Start Student
@@ -41,7 +41,7 @@ sbt "run-main school.akkapersistence.MathApp"
 ### Start Teacher
 
 ```batch
-sbt "run-main school.atleastonce.Math teacher"
+sbt "run-main school.atleastonce.MathApp teacher"
 ```
 
 ### Start Student
@@ -60,7 +60,7 @@ sbt "run-main school.atleastonce.MathApp"
 ### Start Teacher
 
 ```batch
-sbt "run-main school.exactlyonce.Math teacher"
+sbt "run-main school.exactlyonce.MathApp teacher"
 ```
 
 ### Start Student
